@@ -1,0 +1,10 @@
+D:\Documents\C# projects\Light\Light\Light\bin\x86\Debug\Light.exe
+D:\Documents\C# projects\Light\Light\Light\bin\x86\Debug\Light.pdb
+D:\Documents\C# projects\Light\Light\Light\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\C# projects\Light\Light\Light\obj\x86\Debug\Light.exe
+D:\Documents\C# projects\Light\Light\Light\obj\x86\Debug\Light.pdb
+D:\Documents\C# projects\Light\Light\Light\bin\x86\Debug\Content\Audimat Mono.xnb
+D:\Documents\C# projects\Light\Light\Light\obj\x86\Debug\Light.csprojResolveAssemblyReference.cache
+D:\Documents\C# projects\Light\Light\Light\bin\x86\Debug\Content\splash.xnb
+D:\Documents\C# projects\Light\Light\Light\bin\x86\Debug\Content\gravity_pad.xnb
+D:\Documents\C# projects\Light\Light\Light\bin\x86\Debug\Content\jump_pad.xnb
